@@ -1,5 +1,7 @@
 # Java-Cryptography-and-Security-Tools_Project
 
+**NOTE :- PUT ALL THE FILES IN ONE FOLDER ONLY**
+
 **Password Authentication:**
 
 The program starts with password authentication. The expected password is "java," and users have a maximum of three attempts to enter the correct password.
