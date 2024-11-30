@@ -41,3 +41,9 @@ Checks the strength of a user-provided password based on various criteria. Users
 **Exit:**
 
 Exits the program after displaying team member information.
+
+## Contributors
+
+- **Navi Pandey** - [@menavipandey](https://github.com/menavipandey)
+- **Rahi Agarwal** - [@rahiagarwal](https://github.com/rahiagarwal)
+- **Satvik Buttan** - [@satvikbuttan]
